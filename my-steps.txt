@@ -105,13 +105,19 @@ rm -r drinks
 
 ### Step 4
 git init
-
+git add .
+git status 
+git commit -m "first commit for unit 1 git practice"
 
 ### Step 5
-
+git remote add origin https://github.com/raimelee/unit1_git_practice-.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
 
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
+
+Votpam-bihfej-0nugvy
