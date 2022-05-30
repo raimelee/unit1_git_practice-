@@ -1,0 +1,117 @@
+### Step 2A
+/Users/rcronkhite7
+
+### Step 2B
+cd /users/rcronkhite7/desktop/
+
+### Step 2C
+cd /users/rcronkhite7/desktop/cd /unit1-git-practice/
+
+### Step 2D
+/users/rcronkhite7/desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+/
+
+### Step 2H
+/users/rcronkhite7
+
+### Step 2I
+Applications
+Creative Cloud Files
+Creative Cloud Files rcronkhite7@gmail.com bd59a40982601d12ab41644733b327f56b8e063d9cab9755bd0d2367f0c0bd2b
+Design
+Design Misc.
+Desktop
+Documents
+Downloads
+Google Drive
+Library
+Movies
+Music
+Pictures
+Public
+RaimeLeeLongStripe.png
+Signature Requested Replacement Agreement  Case 101096643903.pdf
+Sites
+Ventures_Logo_Text.png
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd /users/rcronkhite7/desktop/unit1-git-practice/
+
+
+
+### Step 3A
+mkdir veggies
+mkdir meats
+mkdir desserts
+
+### Step 3B
+mv desserts sweets
+
+### Step 3C
+mkdir proteins
+
+### Step 3D
+
+
+### Step 3E
+cd veggies/
+touch carrot.txt
+touch pea.txt
+
+### Step 3F
+cd ..
+cd sweets/
+touch cookie.txt
+
+### Step 3G
+
+
+### Step 3H
+cd ..
+touch thing.txt
+
+### Step 3I
+cp -r thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt proteins
+
+### Step 3K
+cp -r thing.txt crab.txt
+mv crab.txt proteins/meats
+
+### Step 3L
+rm thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+mkdir drinks
+rm -r drinks
+
+### Step 4
+git init
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
